@@ -14,7 +14,7 @@
 
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AshutoshGoswami24/text-leech-bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qmnb12/AD)
 
 ## Deploy To Google Colab
 
@@ -24,12 +24,12 @@
 
 ## Deploy To Koyeb
               
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/AshutoshGoswami24/text-leech-bot&branch=main&name=ashutoshgoswami" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/qmnb12/AD&branch=main&builder=dockerfile&env%5BBOT_TOKEN%5D=&ports=8080%3Bhttp%3B%2F&instance_type=free&name=AD" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
 ## Deploy To Render                  
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/AshutoshGoswami24/text-leech-bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/qmnb12/AD)
 
 ## Deploy To Cloud Shell Editor
 <a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/AshutoshGoswami24/text-leech-bot&tutorial=help/gcloud.md" >
