@@ -37,7 +37,7 @@
   
 ## Deploy To codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/AshutoshGoswami24/text-leech-bot)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/qmnb12/AD)
 
 ## Deploy To VPS
 ```
