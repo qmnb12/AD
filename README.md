@@ -19,7 +19,7 @@
 ## Deploy To Google Colab
 
 <a href="https://colab.research.google.com/github/qmnb12/AD/blob/main/text_leech_bot.ipynb" target="_blank">
-  <img src="https://qmnb12.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
 ## Deploy To Koyeb
