@@ -24,7 +24,7 @@
 
 ## Deploy To Koyeb
               
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/qmnb12/AD&branch=main&builder=dockerfile&env%5BBOT_TOKEN%5D=&ports=8080%3Bhttp%3B%2F&instance_type=free&name=AD" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/qmnb12/AD&branch=main&builder=dockerfile&env%5BBOT_TOKEN%5D=&ports=6969%3Bhttp%3B%2F&instance_type=free&name=AD" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
 ## Deploy To Render                  
