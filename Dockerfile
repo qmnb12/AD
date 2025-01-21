@@ -1,4 +1,4 @@
-FROM python:3.9.7-slim-buster
+FROM python:3.9-slim-bookworm as builder
 
 # Update and install dependencies
 RUN apt-get update -y && apt-get upgrade -y \
