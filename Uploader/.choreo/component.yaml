@@ -33,5 +33,5 @@ dependencies:
     # +required Name of the connection.
     - name: hr-connection
       # +required service identifer of the dependent component.
-      resourceRef: service:/Uploader/king/main/PUBLIC
+      resourceRef: service:/Uploader/choreo/main/PUBLIC
       
