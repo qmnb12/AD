@@ -6,7 +6,7 @@ charset-normalizer==3.3.0
 idna==3.4
 motor==3.1.1
 mutagen==1.47
-pyaes==1.7.1
+pyaes==1.6.1
 pycryptodome==3.18.0
 pyrogram==2.0.150
 pyromod==0.3.3
